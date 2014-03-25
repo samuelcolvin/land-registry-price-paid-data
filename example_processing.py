@@ -8,7 +8,7 @@ pd.set_option('display.max_rows', 10)
 
 PROCESSED_DATA = 'pp_processed.h5'
 pp = pd.read_hdf(PROCESSED_DATA, 'pp')
-print 'Loaded %s, %d records' % (PROCESSED_DATA, len(pp.values))
+print 'Loaded %s, %d records' % (PROCESSED_DATA, len(pp.index))
 
 
 # Out[1]:
