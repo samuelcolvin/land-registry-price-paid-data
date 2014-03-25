@@ -36,4 +36,4 @@ On my computer (Intel i7-3770, 16GB ram, OS: Ubuntu 13.10 64bit) this takes 41 m
 
 ### Example
 
-To demonstrate that this isn't completely pointless, `example_processing.ipynb` (and it's plain python sister) demconstrate loading the DataFrame and plotting house price vs. distance from central london for houses purchased since November 2013 within 12 miles of London.
+To demonstrate that this isn't completely pointless, `example_processing.ipynb` (and it's plain python sister) demconstrate loading the DataFrame and plotting house price vs. distance from central london for houses purchased since June 2013 within the city of London.
