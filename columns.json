@@ -1,0 +1,17 @@
+[
+  "id", 
+  "price", 
+  "date", 
+  "postcode", 
+  "type", 
+  "new", 
+  "duration", 
+  "paon", 
+  "saon", 
+  "street", 
+  "locality", 
+  "town", 
+  "district", 
+  "country", 
+  "record_status"
+]
