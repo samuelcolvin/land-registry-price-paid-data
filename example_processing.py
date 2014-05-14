@@ -74,6 +74,8 @@ import math
 def cood_distance(latlong1, latlong2):
     """
     from http://www.johndcook.com/python_longitude_latitude.html
+    
+    example of the haversine formula.
     """
     lat1, long1 = latlong1
     lat2, long2 = latlong2
